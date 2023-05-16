@@ -1,4 +1,4 @@
-# Guess-My-Number-JS-HTML-CSS
+# Guess-My-Number V2
 A Program using JS, HTML, and CSS that asks user to Guess the Correct Number.
 
 **HOW TO OPEN**
@@ -17,3 +17,8 @@ You can change the difficulty by pressing Easy, Medium, or Hard. Easy will allow
 This program was created as a demonstration for my Javascript Programming Level.
 
 Thank you :)
+
+
+**Version History**
+v1. Initial Version of the Game
+v2. Added Difficulty Settings and changed the default 1 to 20 numbers to 50. Added Instructions modal.
