@@ -20,5 +20,5 @@ Thank you :)
 
 
 **Version History**
-v1. Initial Version of the Game
-v2. Added Difficulty Settings and changed the default 1 to 20 numbers to 50. Added Instructions modal.
+1. Initial Version of the Game
+2. Added Difficulty Settings and changed the default 1 to 20 numbers to 50. Added Instructions modal.
