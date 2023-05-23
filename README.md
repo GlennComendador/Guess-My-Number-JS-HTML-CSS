@@ -1,5 +1,6 @@
 # Guess-My-Number V2
 A Program using JS, HTML, and CSS that asks user to Guess the Correct Number.
+CSS and HTML Files provided by Udemy Instructor with modifications made by me.
 
 **HOW TO OPEN**
 To view the program, open **index.html** with your browser and start playing!
